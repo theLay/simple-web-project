@@ -1,0 +1,28 @@
+{
+  "name": "simple-web-project",
+  "version": "1.0.0",
+  "description": "간단한 웹 프로젝트 연습용 저장소",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theLay/simple-web-project.git"
+  },
+  "keywords": [
+    "web",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theLay/simple-web-project/issues"
+  },
+  "homepage": "https://github.com/theLay/simple-web-project#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
